@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>01 - class</title>
+    <title>01 - Class</title>
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body class="flex min-h-[100vh] justify-center items-center text-black">
@@ -19,7 +19,7 @@
                     <path stroke-linecap="round" stroke-linejoin="round" d="M9 15L3 9m0 0l6-6M3 9h12a6 6 0 010 12h-3" />
                 </svg>                                        
             </a>
-            <h1 class="justify-center items-center px-3 text-3xl">01 - class</h1>
+            <h1 class="justify-center items-center px-3 text-3xl">01 - Class</h1>
         </header>
         <section class="p-5 h-[570px] overflow-y-auto">
             <?php
